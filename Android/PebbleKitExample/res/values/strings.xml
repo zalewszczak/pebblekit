@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ExamplePebbleKitActivity</string>
+  <string name="activity_golf">Golf App Example</string>
+  <string name="activity_sports">Sports App Example</string>
+  <string name="activity_weather">Weather App Example</string>
+  <string name="activity_sms">Sms App Example</string>
+  <string name="activity_gcm">GCM App Example</string>
+
+</resources>
